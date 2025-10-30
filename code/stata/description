@@ -1,0 +1,1 @@
+This Stata script replicates the Python analysis manually. It imports the same Fama/French dataset, summarizes each factor’s descriptive statistics, produces time-trend plots, and calculates the correlation matrix. The code ensures comparability with the AI-assisted Python results.
